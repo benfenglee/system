@@ -1,9 +1,11 @@
 <script setup>
+
 </script>
 
 <template>
-  <router-view></router-view>
+页面 登录
 </template>
 
 <style scoped>
+
 </style>

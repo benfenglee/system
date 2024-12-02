@@ -1,3 +1,4 @@
+import './assets/reset.css'
 import './assets/main.css'
 import { createPinia } from 'pinia'
 const pinia = createPinia()
